@@ -1,2 +1,2 @@
-# Bullets
-This is a project given by my academy, WhiteHat Junior.
+# p5.play-boilerplate
+Boiler plate for p5.play
